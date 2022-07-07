@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1feb4f69d94e245cd127",
-    "url": "/React-Amazing-Pasta/static/css/main.21426d1e.chunk.css"
+    "revision": "c1c3bdf29e5ac102dd18",
+    "url": "/React-Amazing-Pasta/static/css/main.6e19cfdb.chunk.css"
   },
   {
-    "revision": "1feb4f69d94e245cd127",
-    "url": "/React-Amazing-Pasta/static/js/main.1feb4f69.chunk.js"
+    "revision": "c1c3bdf29e5ac102dd18",
+    "url": "/React-Amazing-Pasta/static/js/main.c1c3bdf2.chunk.js"
   },
   {
     "revision": "338851cd07bbc6888335",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/React-Amazing-Pasta/static/js/runtime~main.4ce205ed.js"
   },
   {
-    "revision": "df1cd8fe6ac8c22394cb30db213cfe84",
+    "revision": "1c9952ed3d288d2a62f00f9bccf5105c",
     "url": "/React-Amazing-Pasta/index.html"
   }
 ];

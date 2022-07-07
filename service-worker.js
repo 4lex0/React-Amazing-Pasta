@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/React-Amazing-Pasta/precache-manifest.138ac84085d0b7fff3e6cd467634c662.js"
+  "/React-Amazing-Pasta/precache-manifest.67eb2e8d9c1d8604a522356080fe10e0.js"
 );
 
 workbox.clientsClaim();
