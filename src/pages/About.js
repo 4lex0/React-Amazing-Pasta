@@ -9,7 +9,7 @@ export const About = () => {
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
     >
-      <img src="./img/about01.jpg" alt=""/>
+      <img src={process.env.PUBLIC_URL + "./img/about01.jpg"} alt="" />
       <div className="aboutBottom">
         <h3>About us</h3>
         <p>

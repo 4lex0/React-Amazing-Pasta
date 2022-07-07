@@ -6,16 +6,17 @@ export const Homepage = () => {
   return (
     <motion.div
       className="home"
-      style={{
-        backgroundImage: "url(./img/restaurants.jpg)",
-        width: "100%",
-        height: "900px",
-        objectFit: "cover",
-      }}
+      // style={{
+      //   backgroundImage: "url(./img/restaurants.jpg)",
+      //   width: "100%",
+      //   height: "900px",
+      //   objectFit: "cover",
+      // }}
       intial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
     >
+      <img className="home-img" src={process.env.PUBLIC_URL + "./img/restaurants.jpg"} alt="" />
       <div className="headerContainer">
         <h1>Amazing Pasta</h1>
         <p style={{ color: "white" }}>Let's get some pasta</p>
